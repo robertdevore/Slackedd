@@ -3,6 +3,8 @@ WordPress plugin that sends sale notifications from Easy Digital Downloads to Sl
 
 ![Slackedd](http://www.robertdevore.com/wp-content/uploads/2016/01/slackedd-cover-image.jpg)
 
+[View full write up here](http://www.robertdevore.com/slackedd/)
+
 If you run an online shop with [Easy Digital Downloads](http://wordpress.org/plugins/easy-digital-downloads/) and spend a lot of time in [Slack](https://slack.com), you can now receive notification through Slack when you make a sale in your shop.
 
 Slackedd, once installed and configured, will send a notification to your Slack channel of choice every time you make a sale through your Easy Digital Downloads store.
