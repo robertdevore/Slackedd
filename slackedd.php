@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:	Slackedd
- * Plugin URI:	http://www.deviodigital.com/slackedd
+ * Plugin URI:	http://www.robertdevore.com/slackedd
  * Description:	Receive notification through Slack when you make a sale with Easy Digital Downloads
  * Version:		1.0
  * Author:		Devio Digital
