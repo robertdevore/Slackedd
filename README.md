@@ -1,15 +1,15 @@
 # Slackedd
-WordPress plugin that sends sale notifications from Easy Digital Downloads to Slack
+**WordPress plugin that sends sale notifications from Easy Digital Downloads to Slack**
+
+[Relase notes](http://www.robertdevore.com/slackedd/)
 
 ![Slackedd](http://www.robertdevore.com/wp-content/uploads/2016/01/slackedd-cover-image.jpg)
 
-[View full write up here](http://www.robertdevore.com/slackedd/)
-
 ### :mega: ANNOUNCEMENT
 
-**While the Slackedd plugin still works, as of now I do not see myself working with Easy Digital Downloads for a while.**
+**While the Slackedd plugin still works, as of (3/24/2018) I do not see myself working with Easy Digital Downloads for a while.**
 
-Feel free to fork and use this however you'd like.
+Feel free to fork and use this however you'd like :+1:
 
 ### :book: DOC
 
